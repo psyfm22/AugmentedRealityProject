@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AugmentedRealityProject</string>
+    <string-array name="draw_names">
+        <item>location 1</item>
+        <item>location 2</item>
+        <item>location 3</item>
+        <item>location 4</item>
+        <item>location 5</item>
+        <item>location 6</item>
+        <item>location 7</item>
+        <item>location 8</item>
+        <item>location 9</item>
+        <item>location 10</item>
+        <item>location 11</item>
+    </string-array>
+    <string name="find_draw">Find Draw</string>
+</resources>
